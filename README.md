@@ -1,4 +1,4 @@
-# Women-s-Ecommerce-Clothing-Reviews
+# Women-Ecommerce-Clothing-Reviews
 
 
 * Understanding customer sentiments is of paramount importance in marketing strategies today. Not only will it give companies an insight as to how customers perceive their products and/or services, but it will also give them an idea on how to improve their offers.
